@@ -30,17 +30,17 @@ Desarrollo basado en los criterios del Challengs 2 Alura Consumo de api Gutendex
 
 # 🌟 Menu 🌟
 
-[![Sin-t-tulo.jpg](https://i.postimg.cc/jdZLnDBB/Sin-t-tulo.jpg)](https://postimg.cc/HV8pfkYt)
+[![Menu de la aplicacion en consola](https://github.com/Fanerstder/challenger-2-api-consumo-backend-literatura-java/blob/main/images/Menu-global-book.png)
 
 
 # 🌟 Manejo Informacion almacenada en DB ya consumida de la API-Gutendex 🌟
 
-[![2.jpg](https://i.postimg.cc/8P17CRXh/2.jpg)](https://postimg.cc/w3Gqfmpv)
+[![2.jpg](https://github.com/Fanerstder/challenger-2-api-consumo-backend-literatura-java/blob/main/images/Autores.png)
 
 
 # 🌟 Top Libros mas descargados 🌟
 
-[![3.jpg](https://i.postimg.cc/jS2CHsb2/3.jpg)](https://postimg.cc/Jsw1mCtC)
+[![3.jpg](https://github.com/Fanerstder/challenger-2-api-consumo-backend-literatura-java/blob/main/images/top_10_libros.png)
 
 # 🌟 Tablas DB 🌟
 
