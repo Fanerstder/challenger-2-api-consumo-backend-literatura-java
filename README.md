@@ -44,7 +44,8 @@ Desarrollo basado en los criterios del Challengs 2 Alura Consumo de api Gutendex
 
 # 🌟 Tablas DB 🌟
 
-[![4.jpg](https://i.postimg.cc/XYPqxTj8/4.jpg)](https://postimg.cc/VJjzkZbr)
+[![4.jpg](https://github.com/Fanerstder/challenger-2-api-consumo-backend-literatura-java/blob/main/images/Tabla_DB_libros.png)
+[![5.jpg](https://github.com/Fanerstder/challenger-2-api-consumo-backend-literatura-java/blob/main/images/Tabla_Db_Autores.png)
 
 ## 🌟 IDES/ INSTALACIÓN O REQUERIMIENTOS🌟
 - MAVEN
